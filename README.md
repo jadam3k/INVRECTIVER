@@ -22,6 +22,12 @@ It can shock you, destroy components, start a fire or do all of these things at 
 
 Do not touch the high voltage side while the board is powered. Use proper insulation, fuses and common sense. Building or using this project is entirely at your own risk.
 
+## PHOTOS
+<img width="877" height="448" alt="Zrzut ekranu 2026-06-18 090659" src="https://github.com/user-attachments/assets/6cfb95a0-1dca-4833-b41c-3c0c2d67fc62" />
+<img width="1117" height="713" alt="Zrzut ekranu 2026-06-18 090714" src="https://github.com/user-attachments/assets/c7dab90d-8fff-40c0-9fd9-c301221ff35a" />
+<img width="1217" height="650" alt="Zrzut ekranu 2026-06-18 090704" src="https://github.com/user-attachments/assets/61ff8835-8b79-43f1-85f3-f6ec8ea55cfc" />
+
+
 
 
 ## BOM
